@@ -2,4 +2,5 @@
 /* The Default image's brightness tends to interfere with any other elements that are not within a dimmed container. */
 $(document).ready(()=>{
     $('.backstretch').css({opacity: 0.4});
+    console.info('I appreciate you taking a moment to look at my code! \n Be sure to check out my github as well: \n http://www.github.com/jsrj');
 });
