@@ -34,8 +34,11 @@ h4 {
 }
 
 .contact-element {
-    width: fit-content;
     margin: 10px;
+}
+.contact-element.email {
+    margin: 10px;
+    width: fit-content;
 }
 
 .logo {
