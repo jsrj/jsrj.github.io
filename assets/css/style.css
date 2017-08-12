@@ -1428,7 +1428,7 @@ figure a .text-overlay .info span {
 .tp-bannertimer {
     width: 100%;
     height: 10px;
-    background: url(../theme/images/timer.png);
+    background: url(../../theme/images/timer.png);
     position: absolute;
     z-index: 200;
 }
