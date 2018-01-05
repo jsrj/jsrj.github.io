@@ -33,6 +33,19 @@ h4 {
     text-shadow: 1px 1px 4px #9B77DA;
 }
 
+#svgs {
+    display: block;
+    padding: 1em;
+    margin: 1em auto;
+}
+
+.wakatime {
+    display: inline-block;
+    width: 45%;
+    margin: 2%;
+}
+
+
 .contact-element {
     margin: 10px 10px 10px 4.5em;
     width: fit-content;
